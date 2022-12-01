@@ -1,0 +1,146 @@
+.topic {
+    background-color: steelblue;
+    font-family: Arial;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+h1 {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+
+h2 {
+    text-transform: capitalize;
+    line-height: 1.4;
+    margin-top: 0;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+.project-preview {
+    margin-top: 60px;
+
+}
+
+.project-picture {
+    display: inline-block;
+    width: 500px;
+}
+
+.project-description {
+    display: inline-block;
+}
+
+.mySlides {
+    width: 450px;
+    margin-left: 20px;
+    height: 300px;
+}
+
+.mySlides_02 {
+    width: 450px;
+    margin-left: 20px;
+    height: 300px;  
+}
+
+.mySlides_03 {
+    width: 450px;
+    margin-left: 20px;
+    height: 300px;  
+}
+
+.mySlides_04 {
+    width: 450px;
+    margin-left: 20px;
+    height: 300px; 
+}
+
+.mySlides_05 {
+    width: 450px;
+    margin-left: 20px;
+    height: 300px;
+}
+
+.mySlides_06 {
+    width: 450px;
+    margin-left: 20px;
+    height: 300px;
+}
+
+.project-description {
+    width: 700px;
+    vertical-align: top;
+}
+
+button {
+    background-color: rgb(24, 119, 242);
+    border: none;
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+    color: white;
+    margin-right: 5px;
+
+}
+
+.karadiyana {
+    width: 450px;
+    margin-left: 20px;
+    height: 300px;
+
+}
+
+button:hover {
+    opacity: 0.5;
+}
+
+.foot{
+    background-color: cadetblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    
+    
+}
+
+.related {
+    background-color: steelblue;
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: Arial;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.mail {
+    text-align: center;
+}
+
+.w3-button {
+      margin-top: 20px;
+      background-color: rgb(129, 59, 65);
+      border: none;
+      width: 50px;
+      height: 50px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      font-weight: bold;
+      color: aliceblue;
+      font-size: large;
+      margin-left: 20px;
+      cursor: pointer;
+}
